@@ -1,3 +1,4 @@
+
 # ⚡ AWS Cognito Identity Pool Setup & DynamoDB Integration Guide
 
 This guide explains how to configure **AWS Cognito Identity Pool** for **guest (unauthenticated)** access and connect it with **Amazon DynamoDB** for use in your Android or Java project.
