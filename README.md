@@ -5,13 +5,6 @@ This guide explains how to configure **AWS Cognito Identity Pool** for **guest (
 
 ---
 
-## 🎥 Setup Video
-Watch the complete setup process in this screen recording:
-
-▶️ [Download Screenrecording.mp4](./screenshots/Screenrecording.mp4)
-
-
----
 
 ## 🖼 DynamoDB Screenshot
 Below is an image of the DynamoDB table used in this setup:
