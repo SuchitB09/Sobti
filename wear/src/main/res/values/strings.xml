@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sobti</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="sobti">Sobti</string>
+    <string name="heartemoji">❤️</string>
+    <string name="bpm">-- bpm</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="footemoji">👣</string>
+    <string name="_0">0</string>
+    <string name="steps">Steps</string>
+    <string name="initializing">Initializing...</string>
+</resources>
